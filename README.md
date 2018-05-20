@@ -37,3 +37,7 @@ Real-world data rarely comes clean. Using Python and its libraries, gather data 
 ### P8: Create a Tableau Story
 
 Create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. The final work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
+## Certificate
+
+[DAND Certificate](dand_cert.png)
