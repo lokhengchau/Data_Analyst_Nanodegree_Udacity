@@ -2,7 +2,7 @@
 
 ## About
 
-This repository includes my project submissions for DAND
+This repository includes my project submissions for DAND.
 
 ## Content
 
@@ -40,4 +40,4 @@ Create a data visualization using Tableau that tells a story or highlights trend
 
 ## Certificate
 
-[DAND Certificate](dand_cert.png)
+![DAND Certificate](dand_cert.png)
